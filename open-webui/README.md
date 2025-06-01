@@ -1,4 +1,4 @@
-# Open WebUI Addon for Home Assistant
+# Open WebUI Addon for Home Assistant (mwaung)
 
 This add-on provides [Open WebUI](https://openwebui.com) for Home Assistant, an extensible, self-hosted interface for AI that adapts to your workflow, all while operating entirely offline.
 
